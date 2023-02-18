@@ -1,7 +1,7 @@
 let NQuestion;
 //modifiez
-let fr = ["bonjour","rouge","vert","marron","glace"];
-let it = ["buongiorno","rosso","verde","marrone","gelato"];
+let fr = ["bonjour","rouge","vert","marron","glace","garçon","fille"];
+let it = ["buongiorno","rosso","verde","marrone","gelato","ragazzo","ragazza"];
 //modifiez
 let aleat = 0;
 let DejaFait = []
