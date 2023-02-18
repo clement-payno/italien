@@ -20,7 +20,7 @@ function demander() {
   if (NQuestion == 0){
     RepeteJTV();
   }else if(NQuestion > ((fr.length) * 2) || isNaN(NQuestion) || NQuestion < 1  ){
-    alert("Nombre de question Invalible (il doit êtreentre 1 et "+((fr.length) * 2)+")");
+    alert("Nombre de question Invalible (il doit être entre 1 et "+((fr.length) * 2)+")");
     demander();
   } else {
     RepeteNormal();
